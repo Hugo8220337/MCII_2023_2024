@@ -3,7 +3,7 @@
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2023/2024&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=MCII&color=sucess"/>
-  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=?&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=18&color=sucess"/>
 </p>
 
 ---
